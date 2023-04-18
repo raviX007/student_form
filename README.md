@@ -17,8 +17,8 @@ A lucid Student entry form aimed at implementing basic crud through JsonPowerDb
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-<img src="/images/save_data_1.png">
-<img src="./images/database.png">
+<img src="/images/initial.png">
+<img src="./images/datafilled.png">
 
 # Illustrations:
 * **UPDATE** : when student roll number is already present in database then student information is fetched from database and filled in respective feild then user can UPDATE student information 
@@ -29,17 +29,17 @@ A lucid Student entry form aimed at implementing basic crud through JsonPowerDb
 # HOW TO USE
 
 * **Initially**
-<img src="./images/initial">
+<img src="./images/initial.png">
 
 We need to enter a roll number 
 
 If roll number is not valid 
 
-<img src="./images/invalidroll">
+<img src="./images/invalidroll.png">
 
 If roll number is valid and that roll number is existnig in database
 
-<img src="./images/datafetch">
+<img src="./images/datafetch.png">
 
 * **Fetching student data using roll number**
   If student already present in database, then all field filled with that student information
