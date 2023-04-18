@@ -29,45 +29,45 @@ A lucid Student entry form aimed at implementing basic crud through JsonPowerDb
 # HOW TO USE
 
 * **Initially**
-<img src="./images/Initial_home_page_look.png">
+<img src="./images/initial">
 
 We need to enter a roll number 
 
 If roll number is not valid 
 
-<img src="./images/invalid_roll_number.png">
+<img src="./images/invalidroll">
 
 If roll number is valid and that roll number is existnig in database
 
-<img src="./images/existing_student.png">
+<img src="./images/datafetch">
 
 * **Fetching student data using roll number**
   If student already present in database, then all field filled with that student information
   
-  <img src="./images/valid_roll_number.png">
+  <img src="./images/datafilled">
   otherwise, other fields are enabled after user input roll number
   
 * **Updation of student details**
   In order to update student details input roll number, and then we can update the student data
   
-  <img src="./images/update_student_details.png">
+  <img src="./images/datafetch.png">
   
-  <img src="./images/alert_after_update.png">
+  <img src="./images/successup.png">
 
 * **Adding new student data**
 
   Enter new roll number and then all other fields are enabled and then after filling student information we can save this data into database only if input is valid
   
-  <img src="./images/save_data_1.png">
+  <img src="./images/datafilled.png">
   
-  <img src="./images/alert_after_save_data.png">
+  <img src="./images/savesss">
   
  * **If input data is not valid**
  
-   <img src="./images/invalid_details_1.png">
+   <img src="./images/bfwrong.png">
   
-   <img src="./images/invalid_details_2.png">
+   <img src="./images/afwrong.png">
 
     
   
-  #Happy Coding
+  
