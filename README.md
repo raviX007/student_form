@@ -44,7 +44,7 @@ If roll number is valid and that roll number is existnig in database
 * **Fetching student data using roll number**
   If student already present in database, then all field filled with that student information
   
-  <img src="./images/datafilled">
+  <img src="./images/datafilled.png">
   otherwise, other fields are enabled after user input roll number
   
 * **Updation of student details**
