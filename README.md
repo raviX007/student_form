@@ -60,7 +60,7 @@ If roll number is valid and that roll number is existnig in database
   
   <img src="./images/datafilled.png">
   
-  <img src="./images/savesss">
+  <img src="./images/savesss.png">
   
  * **If input data is not valid**
  
